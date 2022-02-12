@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChaleeCh
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning data science, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chalee!
+- 👀 I’m interested in Data Science and Web Design and Development. 
+- 🌱 I’m currently learning python programming and full stack web development. 
+- 💞️ I’m looking any opportunities that would allow me to grow and gain experience in the above fields.  
+- 📫 Reach me at chaleechansa@gmail.com
 
 <!---
 ChaleeCh/ChaleeCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
