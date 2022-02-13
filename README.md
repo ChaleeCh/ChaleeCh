@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chalee!
-- 👀 I’m interested in Data Science and Web Design and Development. 
+- 👀 I’m interested in Data Science, Web Design and Development. 
 - 🌱 I’m currently learning python programming and full stack web development. 
-- 💞️ I’m looking any opportunities that would allow me to grow and gain experience in the above fields.  
+- 💞️ I’m looking for any opportunities that would allow me to grow and gain experience in the above fields.  
 - 📫 Reach me at chaleechansa@gmail.com
 
 <!---
