@@ -28,7 +28,9 @@ I am currently working as a **Data Science Associate Consultant** at [Prognoz.ai
 
 ↩️ **Twitter**: https://mobile.twitter.com/_AldwinC
 
-📧 **Email**: chalee.chansa@prognozai.com 
+📧 **Work Email**: chalee.chansa@prognozai.com 
+
+⬆️ **Personal Email**: chaleechansa@gmail.com 
 
 
 
