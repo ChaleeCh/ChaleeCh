@@ -20,6 +20,18 @@ I am currently working as a **Data Science Associate Consultant** at [Prognoz.ai
 
 ![hello-i-m-nik-z1d-LP8sjuI-unsplash](https://user-images.githubusercontent.com/92807935/178293246-28608e28-a323-4a3e-9655-9696d6b60df6.jpg)
 
+## Contact Information ☎️📍
+
+📱 **Phone Number**: +260-973-763-437
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/chalee-chansa/
+
+↩️ **Twitter**: https://mobile.twitter.com/_AldwinC
+
+📧 **Email**: chalee.chansa@prognozai.com 
+
+
+
 
 
 
