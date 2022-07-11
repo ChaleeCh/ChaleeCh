@@ -12,4 +12,6 @@ I'm passionate about **Data Science**, **Machine Learning**, **Artificial Intell
 
 ![katrina-wright-yMg_SMqfoRU-unsplash](https://user-images.githubusercontent.com/92807935/178276282-f16e2975-2338-4a20-860f-8b2a07cc2a07.jpg)
 
+## About Me 👀😅 
+
 
