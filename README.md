@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Chalee!
-- 👀 I’m interested in Data Science, Machine Learning and Web Development. 
-- 🌱 I’m currently learning Python programming and Full Stack Web Development. 
-- 💞️ I’m looking for any opportunities that would allow me to grow and gain practical experience in the above fields.  
-- 📫 Reach me at chaleechansa@gmail.com
 
-<!---
-ChaleeCh/ChaleeCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+# Hello World, I'm Chalee Chansa ![download](https://user-images.githubusercontent.com/92807935/178264182-be606e28-59f8-4d1e-908c-85710c9e1fb4.png)
+
+[LinkedIn](https://www.linkedin.com/in/chalee-chansa/)
+
+
